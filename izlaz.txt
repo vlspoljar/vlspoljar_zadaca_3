@@ -1,0 +1,28 @@
+19.01.2015 09:58:37	Nema promjene.
+19.01.2015 09:58:47	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\UzDiz	1421657927572	1
+	Dodan je novi element u strukturu.
+19.01.2015 09:58:47	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\UzDiz\New Text Document.txt	1421657927572	0
+	Dodan je novi element u strukturu.
+19.01.2015 09:58:47	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\UzDiz	1421657867647	0
+	Obrisan je element iz strukture.
+
+19.01.2015 09:58:57	Nema promjene.
+19.01.2015 09:59:07	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\UzDiz	1421657946354	0
+	Dodan je novi element u strukturu.
+19.01.2015 09:59:07	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\UzDiz	1421657927572	1
+	Obrisan je element iz strukture.
+19.01.2015 09:59:07	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\UzDiz\New Text Document.txt	1421657927572	0
+	Obrisan je element iz strukture.
+
+19.01.2015 09:59:17	Nema promjene.
+19.01.2015 10:00:50	Nema promjene.
+19.01.2015 10:01:00	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\New Text Document.txt	1421658059289	0
+	Dodan je novi element u strukturu.
+
+19.01.2015 10:01:10	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\IPI	1421658066824	1
+	Dodan je novi element u strukturu.
+19.01.2015 10:01:10	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\IPI\sedam.txt	1421658065001	0
+	Dodan je novi element u strukturu.
+19.01.2015 10:01:10	D:\FOI\Diplomski\3.sem\UZDIZ\zadaca3\vlspoljar_zadaca_3\FOI\IPI	1421657876107	0
+	Obrisan je element iz strukture.
+
